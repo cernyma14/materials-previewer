@@ -572,6 +572,28 @@ table {
 	max-width: 1000px;
 	border-collapse: collapse;
 }
+
+.table-basic
+{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.table-basic th
+{
+	font-size: 15px;
+	text-align:center;
+	color: white;
+	padding: 5px;	
+}
+
+.table-basic tr, td
+{
+	border: 2px solid #eee;
+	padding: 5px 15px 5px 15px;
+}
+
 .table-square {
     padding: 10px; 
 	line-height: 10px; 
